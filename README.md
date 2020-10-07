@@ -1,16 +1,17 @@
-### Hi there 👋
+### Oh, hello there! :octocat:
+![Learning](https://img.shields.io/badge/learning-in%20process-success)
+![Sleep](https://img.shields.io/badge/sleep-8%20hrs-green)
+![Eat](https://img.shields.io/badge/eat-1%20hr-yellow)
+![Code](https://img.shields.io/badge/code-14%20hrs-red)
 
-<!--
-**devepodete/devepodete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Learned:
+  - C/C++ :rage1:
+  - Sh :cd:
+- Learning
+  - Python :snake:
+  - Django :new_moon_with_face:
+  - Vulkan + GLFM :volcano:
+- Would like to learn:
+  - Git :see_no_evil:
+  - HTML/CSS/JS :rainbow:
+  - Java/C# :hamster:
