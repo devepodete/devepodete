@@ -5,12 +5,12 @@
 ![Code](https://img.shields.io/badge/code-15%20hrs-red)
 
 - Learned:
-  - C/C++ :rage1:
   - Sh :cd:
-- Learning
+- Learning:
+  - C/C++ :rage1:
   - Python :snake:
   - Django :new_moon_with_face:
-  - Vulkan + GLFM :volcano:
+  - Vulkan + OpenGL :volcano:
 - Would like to learn:
   - Git :see_no_evil:
   - HTML/CSS/JS :rainbow:
