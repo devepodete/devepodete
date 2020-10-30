@@ -8,7 +8,7 @@
   - Sh :cd:
 - Learning:
   - C/C++ :rage1:
-  - Python :snake:
+  - Python 3 :snake:
   - Django :new_moon_with_face:
   - Vulkan + OpenGL :volcano:
 - Would like to learn:
