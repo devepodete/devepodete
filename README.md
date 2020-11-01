@@ -10,7 +10,7 @@
   - C/C++ :rage1:
   - Python 3 :snake:
   - Django :new_moon_with_face:
-  - Vulkan + OpenGL :volcano:
+  - 3d graphics + OpenGL :volcano:
 - Would like to learn:
   - Git :see_no_evil:
   - HTML/CSS/JS :rainbow:
