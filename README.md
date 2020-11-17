@@ -4,14 +4,13 @@
 ![Eat](https://img.shields.io/badge/eat-1%20hr-yellow)
 ![Code](https://img.shields.io/badge/code-15%20hrs-red)
 
-- Learned:
+- Googling:
   - Sh :cd:
 - Learning:
   - C/C++ :rage1:
   - Python 3 :snake:
-  - Django :new_moon_with_face:
   - 3d graphics + OpenGL :volcano:
-- Would like to learn:
   - Git :see_no_evil:
+- Plans for future:
   - HTML/CSS/JS :rainbow:
   - Java/C# :hamster:
