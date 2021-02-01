@@ -11,7 +11,7 @@
   - Python 3 :snake:
   - OpenGL :volcano:
 - Plans for future:
-  - HTML/CSS/JS :rainbow:
+  * :smiley:
 - Googling:
   - Sh :cd:
   - Git :see_no_evil:
