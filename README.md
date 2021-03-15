@@ -5,9 +5,9 @@
 ![Code](https://img.shields.io/badge/code-15%20hrs-red)
 
 - Currently Learning:
+  - C/C++ :rage1:
   - Java :hamster:
 - In stash:
-  - C/C++ :rage1:
   - Python 3 :snake:
   - OpenGL :volcano:
 - Plans for future:
