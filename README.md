@@ -6,9 +6,9 @@
 
 - Currently Learning:
   - C/C++ :rage1:
-  - Java :hamster:
 - In stash:
   - Python 3 :snake:
+  - Java :hamster:
   - OpenGL :volcano:
 - Plans for future:
   * :smiley:
